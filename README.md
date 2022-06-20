@@ -6,6 +6,9 @@
 
 Попробую исправить эту ситуацию.
 
+# UPD:
+У Битрикс вышел полный курс по Vue.js - https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=176&INDEX=Y
+
 ## Установка @bitrix/cli
 
 Для начала необходимо установить @bitrix/cli если он еще не установлен.
